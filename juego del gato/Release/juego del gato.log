@@ -1,0 +1,25 @@
+﻿Compilación iniciada a las 09/12/2016 01:56:02 p. m..
+     1>Proyecto "C:\Users\Calderon\Documents\Visual Studio 2013\Projects\juego del gato\juego del gato\juego del gato.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\juego del gato.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "juego del gato.cpp"
+         juego del gato.cpp
+     1>juego del gato.cpp(394): warning C4553: '==' : el operador no tiene efecto; ¿ha pensado en '='?
+     1>juego del gato.cpp(400): warning C4553: '==' : el operador no tiene efecto; ¿ha pensado en '='?
+     1>juego del gato.cpp(406): warning C4553: '==' : el operador no tiene efecto; ¿ha pensado en '='?
+     1>juego del gato.cpp(412): warning C4553: '==' : el operador no tiene efecto; ¿ha pensado en '='?
+     1>juego del gato.cpp(418): warning C4553: '==' : el operador no tiene efecto; ¿ha pensado en '='?
+     1>juego del gato.cpp(424): warning C4553: '==' : el operador no tiene efecto; ¿ha pensado en '='?
+     1>juego del gato.cpp(430): warning C4553: '==' : el operador no tiene efecto; ¿ha pensado en '='?
+     1>juego del gato.cpp(436): warning C4553: '==' : el operador no tiene efecto; ¿ha pensado en '='?
+     1>juego del gato.cpp(442): warning C4553: '==' : el operador no tiene efecto; ¿ha pensado en '='?
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Calderon\Documents\Visual Studio 2013\Projects\juego del gato\Release\juego del gato.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Calderon\Documents\Visual Studio 2013\Projects\juego del gato\Release\juego del gato.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Calderon\Documents\Visual Studio 2013\Projects\juego del gato\Release\juego del gato.lib" /MACHINE:X86 /SAFESEH "Release\juego del gato.obj"
+         Release\stdafx.obj
+         Generando código
+         Generación de código finalizada
+         juego del gato.vcxproj -> C:\Users\Calderon\Documents\Visual Studio 2013\Projects\juego del gato\Release\juego del gato.exe
+     1>Compilación del proyecto terminada "C:\Users\Calderon\Documents\Visual Studio 2013\Projects\juego del gato\juego del gato\juego del gato.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:04.78
